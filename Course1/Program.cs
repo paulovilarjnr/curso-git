@@ -5,6 +5,7 @@ namespace Course1 {
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Commit yay");
+            Console.WriteLine("mensagem 3");
         }
     }
 }
