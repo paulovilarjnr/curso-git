@@ -8,6 +8,7 @@ namespace Course1 {
             Console.WriteLine("mensagem 4");
             Console.WriteLine("mensagem 5");
             Console.WriteLine("6");
+            Console.WriteLine("7");
         }
     }
 }
